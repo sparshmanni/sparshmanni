@@ -62,6 +62,4 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-<p>https://portfolio-alpha-sandy-58.vercel.app/</p>p
-
 ###
